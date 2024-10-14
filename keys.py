@@ -22,7 +22,7 @@ def save_key(key):
 input_key = load_key()
 
 if input_key is None:
-    print(Fore.GREEN + "Reworked Tool From Axionix" + Style.RESET_ALL)
+    print(Fore.GREEN + "REMAKE BY VTT" + Style.RESET_ALL)
     print(Fore.GREEN + "Wish You Have The Best Experience" + Style.RESET_ALL)
    
     
